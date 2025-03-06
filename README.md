@@ -82,6 +82,9 @@ bikes = pd.read_csv("london_merged.csv")
 ## License  
 This project uses the **London Bike Sharing Dataset** from Kaggle. Refer to Kaggle’s dataset page for license details.
 
+## Tableau Visualization 
+
+[Here](https://public.tableau.com/shared/Q39D9WNRF?:display_count=n&:origin=viz_share_link) is how the visualization turned out
 
 
 
