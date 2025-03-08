@@ -72,8 +72,8 @@ bikes = pd.read_csv("london_merged.csv")
 - **Columns Include**:
   - `timestamp` - Date and time of bike usage.
   - `cnt` - Number of bikes used.
-  - `t1` - Temperature (\u00b0C).
-  - `t2` - Feels-like temperature (\u00b0C).
+  - `t1` - Temperature.
+  - `t2` - Feels-like temperature.
   - `hum` - Humidity (before conversion to percentage).
   - `wind_speed` - Wind speed (km/h).
   - `season` - Numeric season code (later mapped to strings).
